@@ -2,7 +2,7 @@
 
 **Language** : JavaScript (Es6+) , TypeScript 
 
-**Framework** : Express, Next.js
+**Framework** : Express, Nest.js
 
 **DataBase** :  Mysql, PostgreSql, Redis, Prisma
 
