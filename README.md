@@ -8,7 +8,7 @@
 
 **Infrastructure** : 
 
-- AWS : EC2, RDS, S3, CloudFront, Rout 53
+- AWS : ECS, ECR, EC2, RDS, S3, CloudFront, Rout 53
 - NCP : Cloud Functions
 - ETC : Docker, Ubuntu, CentOS, DNS Server, Nginx, Socket Io, Pm2
 
